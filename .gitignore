@@ -1,0 +1,12 @@
+# Chrome extension generated metadata
+_metadata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
